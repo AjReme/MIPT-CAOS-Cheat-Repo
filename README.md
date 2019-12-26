@@ -4,11 +4,11 @@
 <img src="assets/local-meme.jpg">
 </p>
 
-***Moscow Institute of Physics and Technology****, Department of Innovation and High Technology, Computer Architectures and Operating Systems course solutions. Applied Mathematics and Computer Science. Fall 2019.*
+***Moscow Institute of Physics and Technology***, *Department of Innovation and High Technology, Computer Architectures and Operating Systems course solutions. Applied Mathematics and Computer Science. Fall 2019.*
 
 **Contribution:** create pull request with new folder containing your solutions.
 
-***<center>!!! USE AT YOUR OWN RISK !!!</center>***
+***!!! USE AT YOUR OWN RISK !!!***
 
 ## Problem inf01-0: c/generic/sum-numbers
 
